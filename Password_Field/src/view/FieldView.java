@@ -23,6 +23,7 @@ public class FieldView extends JFrame implements ActionListener {
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setLayout(null);
 		
+		//パスワードフィールド
 		pwField = new JPasswordField();
 		pwField.setBounds(20, 20, 300, 20);
 		add(pwField);
