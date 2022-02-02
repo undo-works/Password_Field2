@@ -19,7 +19,7 @@ public class FieldView extends JFrame implements ActionListener {
 	private JButton btnDialog;
 	
 	public FieldView() {
-		setTitle("【ファイル出力】 KIDDA-LA 業務システム");
+		setTitle("パスワード入力画面");
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setLayout(null);
 		
